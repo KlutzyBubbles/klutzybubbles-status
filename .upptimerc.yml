@@ -6,7 +6,7 @@ sites:
   - name: Baseline
     url: https://www.google.com
   - name: AWX
-    url: https://awx.klutzybubbles.me
+    url: http://awx.klutzybubbles.me
     __dangerous__insecure: true
   - name: GorillaToes Minecraft
     url: https://mc.gorillatoes.net
@@ -15,7 +15,7 @@ sites:
     url: https://paperless.klutzybubbles.me
     __dangerous__insecure: true
   - name: Gitea
-    url: https://git.klutzybubbles.me
+    url: http://git.klutzybubbles.me
     __dangerous__insecure: true
 
 status-website:
