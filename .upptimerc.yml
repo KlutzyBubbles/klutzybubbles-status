@@ -29,7 +29,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
- workflowSchedule:
+workflowSchedule:
   uptime: "*/30 * * * *"
   
 
