@@ -7,16 +7,16 @@ sites:
     url: https://www.google.com
   - name: AWX
     url: https://awx.klutzybubbles.me
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: GorillaToes Minecraft
     url: https://mc.gorillatoes.net
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: Paperless
     url: https://paperless.klutzybubbles.me
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
   - name: Gitea
     url: https://git.klutzybubbles.me
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
