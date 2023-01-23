@@ -5,18 +5,23 @@ repo: klutzybubbles-status # The name of this repository
 sites:
   - name: Baseline
     url: https://www.google.com
+    showAverageResponseTime: false
   - name: AWX
     url: http://awx.klutzybubbles.me
     __dangerous__insecure: true
+    showAverageResponseTime: false
   - name: GorillaToes Minecraft
     url: https://mc.gorillatoes.net
     __dangerous__insecure: true
+    showAverageResponseTime: false
   - name: Paperless
     url: https://paperless.klutzybubbles.me
     __dangerous__insecure: true
+    showAverageResponseTime: false
   - name: Gitea
     url: http://git.klutzybubbles.me
     __dangerous__insecure: true
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
