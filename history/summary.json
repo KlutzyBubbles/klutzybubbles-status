@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 104,
-    "timeDay": 72,
-    "timeWeek": 79,
+    "timeDay": 71,
+    "timeWeek": 78,
     "timeMonth": 76,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "up",
-    "uptime": "27.60%",
+    "uptime": "27.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.01%",
-    "uptimeMonth": "17.89%",
-    "uptimeYear": "27.69%",
-    "time": 930,
-    "timeDay": 533,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 930,
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "19.33%",
+    "uptimeYear": "27.96%",
+    "time": 929,
+    "timeDay": 811,
+    "timeWeek": 841,
+    "timeMonth": 841,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2024-01-15": 780,
       "2024-01-14": 1440,
@@ -322,8 +322,7 @@
       "2023-01-26": 1199,
       "2023-01-25": 662,
       "2023-01-24": 620,
-      "2023-01-23": 814,
-      "2023-01-22": 1229
+      "2023-01-23": 814
     }
   },
   {
@@ -343,7 +342,8 @@
     "timeMonth": 0,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-01-21": 4,
+      "2024-01-22": 4,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -704,8 +704,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -725,7 +724,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-21": 4,
+      "2024-01-22": 4,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -1088,8 +1088,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -1098,15 +1097,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "24.70%",
+    "uptime": "24.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.03%",
-    "uptimeMonth": "17.90%",
-    "uptimeYear": "24.78%",
-    "time": 1663,
-    "timeDay": 5339,
-    "timeWeek": 2400,
-    "timeMonth": 2400,
+    "uptimeWeek": "92.31%",
+    "uptimeMonth": "19.34%",
+    "uptimeYear": "25.05%",
+    "time": 1654,
+    "timeDay": 471,
+    "timeWeek": 2185,
+    "timeMonth": 2185,
     "timeYear": 1663,
     "dailyMinutesDown": {
       "2024-01-15": 779,
@@ -1397,8 +1396,7 @@
       "2023-01-26": 1199,
       "2023-01-25": 660,
       "2023-01-24": 619,
-      "2023-01-23": 783,
-      "2023-01-22": 1228
+      "2023-01-23": 783
     }
   }
 ]
