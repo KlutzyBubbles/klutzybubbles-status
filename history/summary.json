@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 101,
-    "timeDay": 137,
-    "timeWeek": 104,
-    "timeMonth": 94,
+    "time": 102,
+    "timeDay": 271,
+    "timeWeek": 127,
+    "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2023-08-22": 30,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "up",
-    "uptime": "37.04%",
+    "uptime": "37.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "41.10%",
-    "time": 901,
-    "timeDay": 994,
-    "timeWeek": 880,
-    "timeMonth": 1001,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "41.38%",
+    "time": 900,
+    "timeDay": 772,
+    "timeWeek": 868,
+    "timeMonth": 995,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-03-20": 31,
@@ -281,8 +281,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -302,7 +301,8 @@
     "timeMonth": 0,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-03-27": 3,
+      "2024-03-28": 4,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -663,8 +663,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -684,7 +683,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 3,
+      "2024-03-28": 4,
+      "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -1047,8 +1047,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   },
   {
@@ -1057,16 +1056,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "34.64%",
+    "uptime": "34.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "38.24%",
-    "time": 1783,
-    "timeDay": 602,
-    "timeWeek": 1209,
-    "timeMonth": 2037,
-    "timeYear": 1769,
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "38.52%",
+    "time": 1776,
+    "timeDay": 436,
+    "timeWeek": 1185,
+    "timeMonth": 1983,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2024-03-09": 20,
       "2024-03-05": 57,
@@ -1302,8 +1301,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 1440,
-      "2023-03-29": 1440
+      "2023-03-30": 1440
     }
   }
 ]
