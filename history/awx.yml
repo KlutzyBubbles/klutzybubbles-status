@@ -1,7 +1,7 @@
 url: http://awx.klutzybubbles.me
-status: down
-code: 404
-responseTime: 604
-lastUpdated: 2024-04-10T10:01:48.024Z
+status: up
+code: 200
+responseTime: 1331
+lastUpdated: 2024-04-10T10:33:09.983Z
 startTime: 2023-01-19T19:31:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
