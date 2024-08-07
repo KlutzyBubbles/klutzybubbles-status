@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 104,
-    "timeDay": 227,
-    "timeWeek": 130,
-    "timeMonth": 116,
-    "timeYear": 106,
+    "timeDay": 83,
+    "timeWeek": 128,
+    "timeMonth": 115,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2024-07-29": 38,
       "2024-05-01": 30,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "down",
-    "uptime": "46.93%",
+    "uptime": "46.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.23%",
-    "uptimeYear": "67.16%",
+    "uptimeMonth": "12.94%",
+    "uptimeYear": "66.88%",
     "time": 857,
-    "timeDay": 541,
-    "timeWeek": 568,
-    "timeMonth": 793,
+    "timeDay": 600,
+    "timeWeek": 578,
+    "timeMonth": 789,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2024-08-06": 4,
+      "2024-08-07": 4,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -218,7 +219,8 @@
     "timeMonth": 0,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-08-06": 4,
+      "2024-08-07": 4,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -579,8 +581,7 @@
       "2023-08-12": 242,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
-      "2023-08-09": 1440,
-      "2023-08-08": 1440
+      "2023-08-09": 1440
     }
   },
   {
@@ -600,7 +601,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-06": 4,
+      "2024-08-07": 4,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -963,8 +965,7 @@
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
-      "2023-08-09": 1440,
-      "2023-08-08": 1440
+      "2023-08-09": 1440
     }
   },
   {
@@ -973,16 +974,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "46.93%",
+    "uptime": "47.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "24.11%",
+    "uptimeWeek": "38.40%",
     "uptimeMonth": "46.74%",
-    "uptimeYear": "69.54%",
-    "time": 1677,
-    "timeDay": 441,
-    "timeWeek": 1451,
-    "timeMonth": 1677,
-    "timeYear": 1683,
+    "uptimeYear": "69.81%",
+    "time": 1673,
+    "timeDay": 448,
+    "timeWeek": 1201,
+    "timeMonth": 1685,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2024-08-04": 453,
       "2024-08-03": 1440,
@@ -1109,8 +1110,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1016,
-      "2023-08-11": 29,
-      "2023-08-08": 88
+      "2023-08-11": 29
     }
   }
 ]
