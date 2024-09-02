@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 132,
-    "timeWeek": 100,
+    "timeDay": 103,
+    "timeWeek": 106,
     "timeMonth": 107,
-    "timeYear": 104,
+    "timeYear": 103,
     "dailyMinutesDown": {
       "2024-07-29": 38,
       "2024-05-01": 30
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "down",
-    "uptime": "44.80%",
+    "uptime": "44.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.83%",
-    "time": 829,
-    "timeDay": 469,
-    "timeWeek": 451,
-    "timeMonth": 494,
+    "uptimeYear": "59.78%",
+    "time": 828,
+    "timeDay": 403,
+    "timeWeek": 444,
+    "timeMonth": 491,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2024-09-01": 1172,
+      "2024-09-02": 4,
+      "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -241,7 +242,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-01": 1172,
+      "2024-09-02": 4,
+      "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -604,8 +606,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440
+      "2023-09-04": 1440
     }
   },
   {
@@ -625,7 +626,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-01": 1172,
+      "2024-09-02": 4,
+      "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -988,8 +990,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440
+      "2023-09-04": 1440
     }
   },
   {
@@ -998,16 +999,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "49.33%",
+    "uptime": "49.35%",
     "uptimeDay": "98.07%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "91.64%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "70.10%",
-    "time": 1605,
-    "timeDay": 3688,
-    "timeWeek": 1212,
-    "timeMonth": 1182,
-    "timeYear": 1554,
+    "time": 1618,
+    "timeDay": 3785,
+    "timeWeek": 1777,
+    "timeMonth": 1326,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2024-09-01": 28,
       "2024-08-27": 31,
