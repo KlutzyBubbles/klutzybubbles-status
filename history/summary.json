@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 84,
-    "timeWeek": 92,
-    "timeMonth": 102,
-    "timeYear": 103,
+    "timeDay": 129,
+    "timeWeek": 97,
+    "timeMonth": 104,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2024-07-29": 38,
       "2024-05-01": 30
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "down",
-    "uptime": "43.11%",
+    "uptime": "43.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.29%",
-    "time": 815,
-    "timeDay": 324,
-    "timeWeek": 472,
-    "timeMonth": 482,
-    "timeYear": 827,
+    "uptimeYear": "54.01%",
+    "time": 814,
+    "timeDay": 443,
+    "timeWeek": 468,
+    "timeMonth": 481,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-09-25": 5,
+      "2024-09-26": 4,
+      "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -255,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 5,
+      "2024-09-26": 4,
+      "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -618,8 +620,7 @@
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
-      "2023-09-28": 1440,
-      "2023-09-27": 1440
+      "2023-09-28": 1440
     }
   },
   {
@@ -639,7 +640,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 5,
+      "2024-09-26": 4,
+      "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -1002,8 +1004,7 @@
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
-      "2023-09-28": 1440,
-      "2023-09-27": 1440
+      "2023-09-28": 1440
     }
   },
   {
@@ -1012,16 +1013,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "50.06%",
-    "uptimeDay": "54.31%",
-    "uptimeWeek": "78.78%",
+    "uptime": "50.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.06%",
     "uptimeMonth": "76.09%",
     "uptimeYear": "68.90%",
-    "time": 1623,
-    "timeDay": 2985,
-    "timeWeek": 1867,
-    "timeMonth": 1812,
-    "timeYear": 1608,
+    "time": 1621,
+    "timeDay": 764,
+    "timeWeek": 1745,
+    "timeMonth": 1819,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2024-09-24": 658,
       "2024-09-19": 46,
