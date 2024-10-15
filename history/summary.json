@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 92,
-    "timeWeek": 107,
+    "timeDay": 95,
+    "timeWeek": 109,
     "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "down",
-    "uptime": "41.82%",
+    "uptime": "41.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "50.76%",
-    "time": 805,
-    "timeDay": 452,
-    "timeWeek": 552,
-    "timeMonth": 479,
-    "timeYear": 818,
+    "time": 803,
+    "timeDay": 329,
+    "timeWeek": 515,
+    "timeMonth": 471,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-10-14": 5,
+      "2024-10-15": 4,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -244,8 +245,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -254,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mc.gorillatoes.net.ico",
     "slug": "gorilla-toes-minecraft",
     "status": "down",
-    "uptime": "0.64%",
+    "uptime": "0.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -265,7 +265,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 5,
+      "2024-10-15": 4,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -628,8 +629,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -649,7 +649,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 5,
+      "2024-10-15": 4,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1012,8 +1013,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -1022,16 +1022,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "50.53%",
+    "uptime": "50.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.29%",
-    "uptimeMonth": "60.39%",
-    "uptimeYear": "68.78%",
-    "time": 1636,
-    "timeDay": 672,
-    "timeWeek": 2333,
-    "timeMonth": 1799,
-    "timeYear": 1618,
+    "uptimeWeek": "81.57%",
+    "uptimeMonth": "63.68%",
+    "uptimeYear": "69.05%",
+    "time": 1633,
+    "timeDay": 585,
+    "timeWeek": 2083,
+    "timeMonth": 1746,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2024-10-09": 422,
       "2024-10-08": 1440,
@@ -1164,8 +1164,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   }
 ]
