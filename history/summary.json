@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 104,
-    "timeDay": 74,
-    "timeWeek": 138,
-    "timeMonth": 114,
+    "timeDay": 106,
+    "timeWeek": 142,
+    "timeMonth": 115,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-11-26": 40,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/awx.klutzybubbles.me.ico",
     "slug": "awx",
     "status": "down",
-    "uptime": "36.36%",
+    "uptime": "36.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.67%",
-    "time": 1335,
-    "timeDay": 3628,
-    "timeWeek": 3651,
-    "timeMonth": 3553,
-    "timeYear": 1414,
+    "uptimeYear": "45.40%",
+    "time": 1341,
+    "timeDay": 3449,
+    "timeWeek": 3630,
+    "timeMonth": 3548,
+    "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-01-17": 4,
+      "2025-01-18": 4,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -284,7 +285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 4,
+      "2025-01-18": 4,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -647,8 +649,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -668,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 4,
+      "2025-01-18": 4,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1031,8 +1033,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -1041,16 +1042,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.klutzybubbles.me.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "51.03%",
+    "uptime": "51.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "77.85%",
-    "time": 1579,
-    "timeDay": 747,
-    "timeWeek": 1381,
-    "timeMonth": 1876,
-    "timeYear": 1579,
+    "time": 1588,
+    "timeDay": 5550,
+    "timeWeek": 2058,
+    "timeMonth": 2024,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2025-01-05": 180,
       "2024-11-29": 303,
