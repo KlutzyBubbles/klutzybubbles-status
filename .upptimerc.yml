@@ -11,13 +11,13 @@ sites:
     __dangerous__insecure: true
     showAverageResponseTime: false
   - name: GorillaToes Minecraft 25565
-    url: https://mc.gorillatoes.net
+    url: mc.gorillatoes.net
     check: "tcp-ping"
     port: 25565
     __dangerous__insecure: true
     showAverageResponseTime: false
   - name: GorillaToes Minecraft 25566
-    url: https://mc.gorillatoes.net
+    url: mc.gorillatoes.net
     check: "tcp-ping"
     port: 25566
     __dangerous__insecure: true
@@ -51,8 +51,7 @@ sites:
     __dangerous__insecure: true
     showAverageResponseTime: false
   - name: Klutzy Plex
-    url: http://app.plex.tv/identity
-    __dangerous__insecure: true
+    url: https://app.plex.tv/identity
     showAverageResponseTime: false
 
 status-website:
