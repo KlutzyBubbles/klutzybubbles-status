@@ -6,36 +6,10 @@ sites:
   - name: Baseline
     url: https://www.google.com
     showAverageResponseTime: false
-  - name: AWX
-    url: http://awx.klutzybubbles.me
-    __dangerous__insecure: true
-    showAverageResponseTime: false
   - name: Game Server 1
     url: $GAME_SERVER_1_URL
     check: "tcp-ping"
     port: $GAME_SERVER_1_PORT
-    __dangerous__insecure: true
-    showAverageResponseTime: false
-  - name: GorillaToes Minecraft 25566
-    url: mc.gorillatoes.net
-    check: "tcp-ping"
-    port: 25566
-    __dangerous__insecure: true
-    showAverageResponseTime: false
-  - name: GorillaToes Project Zomboid Port 1
-    url: gorillatoes.net
-    check: "tcp-ping"
-    port: 16261
-    __dangerous__insecure: true
-    showAverageResponseTime: false
-  - name: GorillaToes Project Zomboid Port 2
-    url: gorillatoes.net
-    check: "tcp-ping"
-    port: 16262
-    __dangerous__insecure: true
-    showAverageResponseTime: false
-  - name: Paperless
-    url: https://paperless.klutzybubbles.me
     __dangerous__insecure: true
     showAverageResponseTime: false
   - name: Gitea
