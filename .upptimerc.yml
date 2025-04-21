@@ -50,8 +50,8 @@ sites:
     url: http://plex.klutzybubbles.me:32400/identity
     __dangerous__insecure: true
     showAverageResponseTime: false
-  - name: Klutzy Plex
-    url: https://app.plex.tv/identity
+  - name: Plex App
+    url: https://app.plex.tv/
     showAverageResponseTime: false
 
 status-website:
