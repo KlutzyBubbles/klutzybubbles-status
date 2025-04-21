@@ -10,10 +10,10 @@ sites:
     url: http://awx.klutzybubbles.me
     __dangerous__insecure: true
     showAverageResponseTime: false
-  - name: GorillaToes Minecraft 25565
-    url: mc.gorillatoes.net
+  - name: Game Server 1
+    url: $GAME_SERVER_1_URL
     check: "tcp-ping"
-    port: 25565
+    port: $GAME_SERVER_1_PORT
     __dangerous__insecure: true
     showAverageResponseTime: false
   - name: GorillaToes Minecraft 25566
