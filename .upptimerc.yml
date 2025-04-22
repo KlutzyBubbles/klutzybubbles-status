@@ -12,6 +12,12 @@ sites:
     port: $GAME_SERVER_1_PORT
     __dangerous__insecure: true
     showAverageResponseTime: false
+  - name: Game Server 2
+    url: $GAME_SERVER_2_URL
+    check: "tcp-ping"
+    port: $GAME_SERVER_2_PORT
+    __dangerous__insecure: true
+    showAverageResponseTime: false
   - name: Gitea
     url: http://git.klutzybubbles.me
     __dangerous__insecure: true
