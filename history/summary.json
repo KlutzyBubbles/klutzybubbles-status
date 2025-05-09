@@ -188,19 +188,19 @@
     "url": "http://plex.klutzybubbles.me:32400/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.klutzybubbles.me.ico",
     "slug": "klutzy-plex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1652,
-    "timeDay": 1500,
-    "timeWeek": 1538,
-    "timeMonth": 1652,
-    "timeYear": 1652,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1651,
+    "timeDay": 1476,
+    "timeWeek": 1535,
+    "timeMonth": 1651,
+    "timeYear": 1651,
     "dailyMinutesDown": {
-      "2025-05-09": 0
+      "2025-05-09": 5
     }
   },
   {
