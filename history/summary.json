@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 101,
     "timeDay": 97,
-    "timeWeek": 96,
+    "timeWeek": 95,
     "timeMonth": 99,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 189,
+    "time": 190,
     "timeDay": 190,
     "timeWeek": 192,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2025-04-22": 43
     }
@@ -69,12 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.86%",
+    "uptimeYear": "79.87%",
     "time": 1476,
-    "timeDay": 1514,
+    "timeDay": 1509,
     "timeWeek": 1314,
-    "timeMonth": 1395,
-    "timeYear": 1436,
+    "timeMonth": 1394,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2025-01-05": 180,
       "2024-11-29": 303,
@@ -160,8 +160,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1278,
       "2024-06-14": 23,
-      "2024-06-11": 38,
-      "2024-05-15": 86
+      "2024-06-11": 38
     }
   },
   {
@@ -170,19 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.klutzybubbles.me.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2411,
-    "timeDay": 1897,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2410,
+    "timeDay": 1898,
     "timeWeek": 2509,
-    "timeMonth": 2411,
-    "timeYear": 2411,
-    "dailyMinutesDown": {
-      "2025-05-14": 3
-    }
+    "timeMonth": 2410,
+    "timeYear": 2410,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Klutzy Plex",
@@ -190,19 +187,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.klutzybubbles.me.ico",
     "slug": "klutzy-plex",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1695,
-    "timeDay": 2009,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1694,
+    "timeDay": 2010,
     "timeWeek": 1773,
-    "timeMonth": 1695,
-    "timeYear": 1695,
-    "dailyMinutesDown": {
-      "2025-05-14": 3
-    }
+    "timeMonth": 1694,
+    "timeYear": 1694,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex App",
