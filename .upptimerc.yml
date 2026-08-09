@@ -15,6 +15,10 @@ sites:
     port: $GAME_SERVER_2_PORT
     __dangerous__insecure: true
     showAverageResponseTime: false
+  - name: Game Server Panel
+    url: https://panel.klutzybubbles.me
+    __dangerous__insecure: true
+    showAverageResponseTime: false
   - name: Gitea
     url: https://git.klutzybubbles.me
     __dangerous__insecure: true
